@@ -27,4 +27,4 @@ The system is built to decouple data ingestion from data processing. When a mass
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/shivkhurana/smart-energy-tracker.git](https://github.com/shivkhurana/smart-energy-tracker.git)
+   git clone [https://github.com/Divyanshii06/smart-energy-tracker.git](https://github.com/Divyanshii06/smart-energy-tracker.git)
